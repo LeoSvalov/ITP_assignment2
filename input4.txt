@@ -1,0 +1,15 @@
+Tatar 1 1
+Linal 8 10
+Math 4 10
+P
+Amina Anima Tatar Linal
+Russkie Vpered Linal
+Sergey Gorodetsky Math
+T
+Mr Bahrami Linal
+Oleg Bulichev Linal
+Niyaz Farhetdin Tatar
+Ivan Konukhov Math Linal
+S
+Ivan Invanov L1337 Linal Math
+Ivanidze Invanovidze 01337 Tatar Math
