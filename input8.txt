@@ -1,0 +1,14 @@
+Math 2 40
+Programming 1 40
+Philosophy 4 40
+P
+Joseph Brown Math Programming
+Giancarlo Succi Math Programming
+T
+Munir Makhmutov Programming
+Marat Mingazov Math
+S
+Mark Lancaster 02930 Math Programming
+John Smith 92383 Programming Philosophy
+Andy Turner 23498 Math Programming
+Peter Myles 29398 Math Programming
